@@ -1,0 +1,28 @@
+{
+  "name": "svelte-disqus-component",
+  "version": "1.0.0",
+  "description": "Integrate Disqus Component for Svelte app. Comments and Count supported.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ariefsn/svelte-disqus-component.git"
+  },
+  "keywords": [
+    "svelte",
+    "disqus",
+    "comments",
+    "sveltekit"
+  ],
+  "author": "Arief Setiyo Nugroho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ariefsn/svelte-disqus-component/issues"
+  },
+  "homepage": "https://github.com/ariefsn/svelte-disqus-component#readme",
+  "devDependencies": {
+    "svelte": "^4.2.19"
+  }
+}
